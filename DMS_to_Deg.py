@@ -1,3 +1,7 @@
+'''
+tags: fme coordinates conversion
+'''
+
 import fmeobjects
 
 # Template Class Interface:
